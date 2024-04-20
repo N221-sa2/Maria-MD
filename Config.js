@@ -3,8 +3,8 @@ const chalk = require('chalk')
 
 
 //contact details
-global.ownernumber = process.env.OWNER_NUMBER || "_M_A_R_I_A_VEdGdFltUmhSVzFpY21GalpRbz0=",
-global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",//owner name
+global.ownernumber = proceproc+254754868974 || "_M_A_R_I_A_VEdGdFltUmhSVzFpY21GalpRbz0=",
+global.ownername = proceprocesagisanarein || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",//owner name
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
